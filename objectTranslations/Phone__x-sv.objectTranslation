@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?><CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata"><fields>
+        <label><!-- Brand --></label>
+        <name>Brand__c</name>
+    </fields><fields>
+        <label><!-- ID --></label>
+        <name>ID__c</name>
+    </fields><fields>
+        <label><!-- PhoneNumber --></label>
+        <name>PhoneNumber__c</name>
+    </fields><fields>
+        <label><!-- UUID --></label>
+        <name>UUID__c</name>
+        <relationshipLabel><!-- Phones --></relationshipLabel>
+    </fields><caseValues>
+        <article>None</article>
+        <plural>false</plural>
+        <value>Phone</value>
+    </caseValues><caseValues>
+        <article>None</article>
+        <plural>true</plural>
+        <value>Phones</value>
+    </caseValues><gender>Neuter</gender></CustomObjectTranslation>

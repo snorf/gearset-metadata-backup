@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?><CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata"><fields>
+        <label><!-- DeviceId --></label>
+        <name>DeviceId__c</name>
+    </fields><fields>
+        <label><!-- Door --></label>
+        <name>Door__c</name>
+    </fields><fields>
+        <label><!-- Humidity --></label>
+        <name>Humidity__c</name>
+    </fields><fields>
+        <label><!-- Temperature --></label>
+        <name>Temperature__c</name>
+    </fields><fields>
+        <label><!-- ts --></label>
+        <name>ts__c</name>
+    </fields><caseValues>
+        <article>None</article>
+        <plural>false</plural>
+        <value>Fridge Reading Daily History</value>
+    </caseValues><caseValues>
+        <article>None</article>
+        <plural>true</plural>
+        <value>Fridge Readings Daily History</value>
+    </caseValues><gender>Neuter</gender></CustomObjectTranslation>
